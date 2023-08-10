@@ -1,0 +1,5 @@
+# Project exclude paths
+/target/
+/.idea/
+/java-json.jar/
+/Kinopoisk.iml/
